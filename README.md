@@ -1,18 +1,6 @@
 # Smart Sales Data Chatbot
+![smart-bot](https://github.com/user-attachments/assets/cd97618f-6ef0-4ed9-8d83-fa097d6c2409)
 
-A GenAI-powered chatbot that can:
-
-<<<<<<< HEAD
-- Understand natural language questions about your sales data and documents
--  Convert questions into SQL queries or retrieve relevant document information
--  Run SQL on your SQLite DB or search through document knowledge base
--  Summarize the results into plain language
-=======
--  Understand natural language questions about your sales data and documents
--  Convert questions into SQL queries or retrieve relevant document information
--  Run SQL on your SQLite DB or search through document knowledge base
--  Summarize the results into plain language
->>>>>>> 20462e1ec19bde3e5054128e7865faae6fe55aac
 
 ## Features
 
