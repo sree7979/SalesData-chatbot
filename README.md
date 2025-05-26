@@ -1,4 +1,5 @@
 # Smart Sales Data Chatbot
+A lightweight AI chatbot designed to handle sales data queries using a conversational interface.
 ![smart-bot](https://github.com/user-attachments/assets/cd97618f-6ef0-4ed9-8d83-fa097d6c2409)
 
 
