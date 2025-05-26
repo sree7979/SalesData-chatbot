@@ -3,10 +3,10 @@
 A GenAI-powered chatbot that can:
 
 <<<<<<< HEAD
-- 💬 Understand natural language questions about your sales data and documents
-- 🧠 Convert questions into SQL queries or retrieve relevant document information
-- 🧾 Run SQL on your SQLite DB or search through document knowledge base
-- 📊 Summarize the results into plain language
+- Understand natural language questions about your sales data and documents
+-  Convert questions into SQL queries or retrieve relevant document information
+-  Run SQL on your SQLite DB or search through document knowledge base
+-  Summarize the results into plain language
 =======
 -  Understand natural language questions about your sales data and documents
 -  Convert questions into SQL queries or retrieve relevant document information
